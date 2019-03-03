@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Description>Utility functions ported from Neos.Flow</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/PRGfx/Prgfx.ObjectUtils</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/PRGfx/Prgfx.ObjectUtils</PackageProjectUrl>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+</Project>
